@@ -1,0 +1,20 @@
+
+# Disables individual built-in sound groups categories (comma-
+# separated list).
+#
+# Category names that can be disabled are the filenames in the
+# "groups" directory without the ".lua" suffix. Use "all" to
+# disable all built-in groups.
+sounds.disabled_groups (Disabled sound groups) string
+
+# Enables/Disables ambiance sounds for biomes.
+sounds.enable_biome_sounds (Enable biome sounds) bool false
+
+# Interval between playing biome sounds.
+sounds.biome_interval (Biome sound interval) int 30 5
+
+# Chance that sound will be played at interval.
+sounds.biome_chance (Biome sound chance) int 20 0 100
+
+# Enables sounds testing with /sounds_tests chat command.
+sounds.enable_tests (Sounds tests) bool false

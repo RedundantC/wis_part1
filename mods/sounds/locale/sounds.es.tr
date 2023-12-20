@@ -1,0 +1,18 @@
+# textdomain:sounds
+
+# Translators: Jordan Irwin (AntumDeluge)
+
+
+Displays sounds tests formspec.=Mostrar formspec de pruebas de sonidos.
+Sounds Tests=Pruebas de Sonidos
+Name: @1=Nombre: @1
+Cached: @1=En caché: @1
+Played: @1=Reproducido: @1
+Manual play:=Reproducir manual:
+Group play:=Reproducir grupo:
+Play=Reproducir
+Stop=Parar
+Loop=Bucle
+Random=Al azar
+yes=sí
+no=
