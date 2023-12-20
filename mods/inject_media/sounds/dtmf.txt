@@ -1,3 +1,0 @@
-Author Credits: Bell System or AT&T or like god cause sine wave right? [https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling]
-source: idk pick one? [https://pbxbook.com/other/dtmftone.html], [https://onlinetonegenerator.com/dtmf.html], [https://www.mediacollege.com/audio/tone/dtmf.html]
-©:can you even cc0 two sine waves? that doesn't make much sense.
